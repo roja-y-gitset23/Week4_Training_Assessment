@@ -1,0 +1,12 @@
+{"ticket": "I was charged twice for my subscription this month.", "category": "Billing"}
+{"ticket": "The app crashes every time I open the reports page.", "category": "Technical"}
+{"ticket": "How do I change the email address on my profile?", "category": "Account"}
+{"ticket": "I was charged again after I cancelled my subscription.", "category": "Billing"}
+{"ticket": "The website shows a 500 error when I upload a file.", "category": "Technical"}
+{"ticket": "I want to delete my account permanently.", "category": "Account"}
+{"ticket": "My refund has not arrived after 10 days.", "category": "Billing"}
+{"ticket": "The API returns timeout errors since this morning.", "category": "Technical"}
+{"ticket": "I want to cancel my subscription before the next renewal.", "category": "Account"}
+{"ticket": "Please update the billing address on my profile.", "category": "Account"}
+{"ticket": "The payment page keeps freezing when I click Pay.", "category": "Technical"}
+{"ticket": "The invoice PDF won't download, it just shows an error.", "category": "Technical"}
